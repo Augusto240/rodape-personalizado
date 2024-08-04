@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rodapé Personalizado 1.1\n"
+"PO-Revision-Date: YYYY-MM-DD HH:MM+ZZZZ\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Mensagem do Rodapé"
+msgstr ""
+
+msgid "Rodapé Personalizado"
+msgstr ""
+
+msgid "Um plugin para adicionar uma mensagem personalizada ao rodapé do site."
+msgstr ""
